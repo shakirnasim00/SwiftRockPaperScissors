@@ -1,1 +1,1 @@
-# SwiftRockPaperScissors
+# RockPaperScissors
